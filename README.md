@@ -25,21 +25,8 @@ I began my technical studies in **July 2026**, with expected qualification compl
 
 🔎 **Technical Research:** Open-source research, information analysis and investigative methods.
 
-## 🚀 Learning through practice
-
-I use GitHub to document **practical exercises, scripts, technical notes and small projects**, bringing together structured study and independent experimentation.
-
-| Project | What I’m exploring |
-| :--- | :--- |
-| **[Mac File Tools](https://github.com/zoeomail-beep/zeod-technical-training-2026/tree/main/tools/mac-file-tools)** | Downloads organisation, file auditing and everyday automation. |
-| **[Technical Studies](https://github.com/zoeomail-beep/zeod-technical-training-2026)** | Study activities, documentation and applied research. |
-
 ## 🌱 My study journey
 
 - **July 2026 — Commenced studies.** Building foundations in systems, networking, scripting and security.
 - **2026–2028 — Learn, practise, document.** Developing skills through coursework, practical exercises and independent projects.
 - **2028 — Expected qualification completion.**
-
----
-
-*An evolving record of technical learning, experimentation and applied research.*
