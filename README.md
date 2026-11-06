@@ -1,16 +1,45 @@
-## Hi there 👋
+![Hi, I’m Zoe. Digital professional, technical learner and curious researcher. Technical studies 2026–2028, Sydney.](./assets/profile-banner.svg)
 
-<!--
-**zoeomail-beep/zoeomail-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Zoe**, a Sydney-based digital professional with a background in **marketing, technology and digital systems**.
 
-Here are some ideas to get you started:
+I began my technical studies in **July 2026**, with expected qualification completion in **2028**. I’m interested in understanding how systems work, how information connects and how technology can help solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Exploring **cybersecurity, investigative research, networking and automation**.  
+🎨 Connecting technical learning with an ongoing interest in **design and digital creativity**.
+
+[Explore my repositories →](https://github.com/zoeomail-beep?tab=repositories)
+
+## 🧰 What I’m learning
+
+![Learning Linux, Bash, Git, GitHub and Python](https://skillicons.dev/icons?i=linux,bash,git,github,py&theme=dark&perline=5)
+
+🐧 **Linux & Terminal:** Operating systems, command-line tools and system administration.
+
+🌿 **Git & GitHub:** Version control, documentation and collaborative development.
+
+🌐 **Networking:** Network architecture, protocols, diagnostics and security.
+
+🐍 **Python & Automation:** Scripting, data processing and automated workflows.
+
+🛡️ **Cybersecurity:** Security testing, vulnerability assessment and defensive techniques.
+
+🔎 **Technical Research:** Open-source research, information analysis and investigative methods.
+
+## 🚀 Learning through practice
+
+I use GitHub to document **practical exercises, scripts, technical notes and small projects**, bringing together structured study and independent experimentation.
+
+| Project | What I’m exploring |
+| :--- | :--- |
+| **[Mac File Tools](https://github.com/zoeomail-beep/zeod-technical-training-2026/tree/main/tools/mac-file-tools)** | Downloads organisation, file auditing and everyday automation. |
+| **[Technical Studies](https://github.com/zoeomail-beep/zeod-technical-training-2026)** | Study activities, documentation and applied research. |
+
+## 🌱 My study journey
+
+- **July 2026 — Commenced studies.** Building foundations in systems, networking, scripting and security.
+- **2026–2028 — Learn, practise, document.** Developing skills through coursework, practical exercises and independent projects.
+- **2028 — Expected qualification completion.**
+
+---
+
+*An evolving record of technical learning, experimentation and applied research.*
