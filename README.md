@@ -1,4 +1,4 @@
-![Hi, I’m Zoe. Digital professional, technical learner and curious researcher. Technical studies 2026–2028, Sydney.](./assets/profile-banner-portrait.png)
+![Hi, I’m Zoe. Digital professional, technical learner and curious researcher. Technical studies 2026–2028, Sydney.](./assets/profile-banner-colour.png)
 
 I’m **Zoe**, a Sydney-based digital professional with a background in **marketing, technology and digital systems**.
 
