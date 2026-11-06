@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I’m Zoe. Digital professional, technical learner and curious researcher.</title>
+  <desc id="desc">A forest green banner with a fine network pattern. Technical studies, July 2026 to 2028, Sydney.</desc>
+  <rect width="1400" height="420" rx="24" fill="#123d32"/>
+  <g fill="none" stroke="#b7d9ae" opacity=".15">
+    <circle cx="1240" cy="212" r="245"/><circle cx="1240" cy="212" r="195"/><circle cx="1240" cy="212" r="145"/><circle cx="1240" cy="212" r="95"/>
+    <path d="M995 212h405M1240 0v420M1067 39l333 333M1067 385L1400 52"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="79" fill="#b8d8ad" font-size="17" letter-spacing="4">ZEOD / INDEPENDENT LEARNING &amp; APPLIED RESEARCH</text>
+    <text x="70" y="190" fill="#f4f2e7" font-size="88" font-weight="700" letter-spacing="-3">Hi, I’m Zoe.</text>
+    <text x="76" y="244" fill="#e2e9d9" font-size="26">Digital professional · Technical learner · Curious researcher</text>
+    <path d="M76 284h760" stroke="#b8d8ad" opacity=".4"/>
+    <text x="76" y="332" fill="#b8d8ad" font-size="21">Cybersecurity / Networks / Automation / Research</text>
+    <text x="76" y="372" fill="#e2e9d9" font-size="17">SYDNEY, AUSTRALIA   ·   TECHNICAL STUDIES 2026–2028</text>
+  </g>
+</svg>
