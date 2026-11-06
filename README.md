@@ -1,6 +1,6 @@
-![Hi, I’m Zoe. Digital professional, technical learner and curious researcher. Technical studies 2026–2028, Sydney.](./assets/profile-banner-colour.png)
+![zeod — Digital professional. Technical learner. Curious researcher.](./assets/BWBGZO.png)
 
-I’m **Zoe**, a Sydney-based digital professional with a background in **marketing, technology and digital systems**.
+I’m **xyzozo**, a Sydney-based digital professional with a background in **marketing, technology and digital systems**.
 
 I began my technical studies in **July 2026**, with expected qualification completion in **2028**. I’m interested in understanding how systems work, how information connects and how technology can help solve practical problems.
 
