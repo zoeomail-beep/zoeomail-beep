@@ -1,30 +1,42 @@
 ![zeod — Digital professional. Technical learner. Curious researcher.](./assets/BWBGZO.png)
 
-I’m **xyzozo**, a Sydney-based digital professional with a background in **marketing, technology and digital systems**.
+I’m **Zoe**, a Sydney-based digital professional with a background in **marketing, technology and digital systems**.
 
 I began my technical studies in **July 2026**, with expected qualification completion in **2028**. I’m interested in understanding how systems work, how information connects and how technology can help solve practical problems.
 
-Exploring **cybersecurity, investigative research, networking and automation**.  
-Connecting technical learning with an ongoing interest in **design and digital creativity**.
+🔎 Exploring **cybersecurity, investigative research, networking and automation**.  
+🎨 Connecting technical learning with an ongoing interest in **design and digital creativity**.
 
 [Explore my repositories →](https://github.com/zoeomail-beep?tab=repositories)
 
-## What I’m learning
+## 🧰 What I’m learning
 
-**Linux & Terminal:** Operating systems, command-line tools and system administration.
+![Learning Linux, Bash, Git, GitHub and Python](https://skillicons.dev/icons?i=linux,bash,git,github,py&theme=dark&perline=5)
 
-**Git & GitHub:** Version control, documentation and collaborative development.
+🐧 **Linux & Terminal:** Operating systems, command-line tools and system administration.
 
-**Networking:** Network architecture, protocols, diagnostics and security.
+🌿 **Git & GitHub:** Version control, documentation and collaborative development.
 
-**Python & Automation:** Scripting, data processing and automated workflows.
+🌐 **Networking:** Network architecture, protocols, diagnostics and security.
 
-**Cybersecurity:** Security testing, vulnerability assessment and defensive techniques.
+🐍 **Python & Automation:** Scripting, data processing and automated workflows.
 
-**Technical Research:** Open-source research, information analysis and investigative methods.
+🛡️ **Cybersecurity:** Security testing, vulnerability assessment and defensive techniques.
 
-## My study journey
+🔎 **Technical Research:** Open-source research, information analysis and investigative methods.
+
+## 🚀 Learning through practice
+
+I use GitHub to document **practical exercises, scripts, technical notes and small projects**, bringing together structured study and independent experimentation.
+
+| Project | What I’m exploring |
+| :--- | :--- |
+tba - be back soon 
 
 - **July 2026 — Commenced studies.** Building foundations in systems, networking, scripting and security.
 - **2026–2028 — Learn, practise, document.** Developing skills through coursework, practical exercises and independent projects.
 - **2028 — Expected qualification completion.**
+
+---
+
+*An evolving record of technical learning, experimentation and applied research.*
